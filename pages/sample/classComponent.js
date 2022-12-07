@@ -9,7 +9,7 @@ export default class SampleClassComponent extends Component {
       name: "",
       dateOfBirth: "",
     };
-    console.log(this)
+    // console.log(this)
 
     this.updateUserData = this.updateUserData.bind(this)
   }
